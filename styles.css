@@ -1,0 +1,19 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #home {
+    padding-top: 20px;
+  }
+  
+  .carousel-inner img {
+    height: 400px;
+    object-fit: cover;
+  }
+  
+  footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+  }
+  
