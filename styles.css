@@ -17,3 +17,11 @@ body {
     padding: 20px 0;
   }
   
+  .carousel img {
+    height: 300px; 
+    object-fit: cover;
+  }
+  
+  .carousel img{
+    border-radius: 0.5rem;
+  }
